@@ -1,0 +1,32 @@
+# PHP / Server logs
+error_log
+*.log
+
+# Environment / Credentials files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs, Editors and OS files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Local configuration / background assets (optional)
+# Uncomment the lines below if you wish to prevent committing local background images:
+# bg1.jpg
+# image2.jpg
+# image3.jpg
+# image9.jpg
+# picture1.jpg
